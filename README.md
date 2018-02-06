@@ -3,8 +3,8 @@ bloatstack
 
 # Supported tags
 
-* xenial
-* stretch
+* [stretch](https://raw.githubusercontent.com/mmunro-ltrr/bloatstack/master/stretch/Dockerfile)
+* [xenial](https://raw.githubusercontent.com/mmunro-ltrr/bloatstack/master/xenial/Dockerfile)
 
 # A non-microservice stack on Apache + PostGIS + Java
 
