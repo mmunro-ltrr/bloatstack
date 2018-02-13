@@ -10,7 +10,7 @@ RUN set -e \
     openssh-client \
     php \
     php-curl \
-    php-pgsql
+    php-pgsql \
     php7.0-mbstring \
     php7.0-xml \
     php7.0-zip \
