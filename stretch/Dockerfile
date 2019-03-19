@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM debian:stretch-20190228
 
 RUN set -e \
   && apt-get update \

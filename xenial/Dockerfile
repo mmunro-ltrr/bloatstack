@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20190222
 
 RUN set -e \
   && apt-get update \
